@@ -1,2 +1,2 @@
 # DFT_PAPERS
-paperes of DFT
+papers of DFT
